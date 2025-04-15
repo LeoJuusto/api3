@@ -1,0 +1,13 @@
+﻿@API7_HostAddress = https://localhost:7130
+
+POST {{API7_HostAddress}}/todoitems
+
+Content-Type: application/json
+
+{
+   "name":"walk dog",
+  "isComplete":true
+
+}
+
+###

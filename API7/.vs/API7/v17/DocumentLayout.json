@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2200814\\source\\repos\\API7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|c:\\users\\s2200814\\source\\repos\\api7\\api7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|solutionrelative:api7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|c:\\users\\s2200814\\source\\repos\\api7\\api7\\api7.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|solutionrelative:api7\\api7.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|c:\\users\\s2200814\\source\\repos\\api7\\api7\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|solutionrelative:api7\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|c:\\users\\s2200814\\source\\repos\\api7\\api7\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3AE21F-0B0E-4103-BFCF-0FC8E2F7EFEF}|API7\\API7.csproj|solutionrelative:api7\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API7.http",
+              "DocumentMoniker": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\API7.http",
+              "RelativeDocumentMoniker": "API7\\API7.http",
+              "ToolTip": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\API7.http",
+              "RelativeToolTip": "API7\\API7.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T20:48:10.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\TodoDb.cs",
+              "RelativeDocumentMoniker": "API7\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\TodoDb.cs",
+              "RelativeToolTip": "API7\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:34:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\Todo.cs",
+              "RelativeDocumentMoniker": "API7\\Todo.cs",
+              "ToolTip": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\Todo.cs",
+              "RelativeToolTip": "API7\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:34:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\Program.cs",
+              "RelativeDocumentMoniker": "API7\\Program.cs",
+              "ToolTip": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\Program.cs",
+              "RelativeToolTip": "API7\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T20:32:28.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
