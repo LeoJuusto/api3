@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V86xvfx0F8Y=",
+  "dgSpecHash": "XGoRFvaCD7o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\s2200814\\source\\repos\\API7\\API7\\API7.csproj",
+  "projectFilePath": "C:\\unitygit\\rogue reposituoru\\api3\\API7\\API7\\API7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s2200814\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\9.0.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\s2200814\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
